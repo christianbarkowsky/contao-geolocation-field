@@ -1,2 +1,1 @@
-# contao-geolocation-field
-Geolocation field for contao
+# Geolocation field for contao
