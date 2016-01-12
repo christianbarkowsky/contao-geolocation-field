@@ -20,7 +20,7 @@ namespace Barkowsky;
  *
  * @author Christian Barkowsky <https://github.com/christianbarkowsky>
  */
-class FormGeolocation extends \Widget
+class Geolocation extends \Widget
 {
 
 	/**
